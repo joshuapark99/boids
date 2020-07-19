@@ -1,4 +1,4 @@
-# boids
+# Boids
 
 This simulates a boid. A boid is an artificial life program that simulates the flocking behavior of birds. Boid is short for bird-oid object.
 
